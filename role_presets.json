@@ -1,0 +1,96 @@
+{
+    "padrao_vendas_revisado": [
+        {
+            "name": "[CEO]™",
+            "permissions": 8,
+            "color": "#FF0000"
+        },
+        {
+            "name": "[DIRETOR]™",
+            "permissions": 1108367017086,
+            "color": "#FF4500"
+        },
+        {
+            "name": "[GERENTE]™",
+            "permissions": 1108367017086,
+            "color": "#00FF00"
+        },
+        {
+            "name": "[MODERADOR]™",
+            "permissions": 1116718016,
+            "color": "#FFA500"
+        },
+        {
+            "name": "[SUPORTE]™",
+            "permissions": 172467322880,
+            "color": "#00BFFF"
+        },
+        {
+            "name": "[AFILIADO]™",
+            "permissions": 67108864,
+            "color": "#8A2BE2"
+        },
+        {
+            "name": "[CLIENTE VIP]™",
+            "permissions": 3149824,
+            "color": "#00FFFF"
+        },
+        {
+            "name": "[CLIENTE]™",
+            "permissions": 68608,
+            "color": "#FFFFFF"
+        },
+        {
+            "name": "[PROSPECT]™",
+            "permissions": 1024,
+            "color": "#A9A9A9"
+        },
+        {
+            "name": "[BOTS]™",
+            "permissions": 268817920,
+            "color": "#00008B"
+        }
+    ],
+    "padrao_suporte_revisado": [
+        {
+            "name": "[ADMIN]™",
+            "permissions": 8,
+            "color": "#FF0000"
+        },
+        {
+            "name": "[GERENTE]™",
+            "permissions": 1108367017086,
+            "color": "#00FF00"
+        },
+        {
+            "name": "[MODERADOR]™",
+            "permissions": 1116718016,
+            "color": "#FFA500"
+        },
+        {
+            "name": "[SUPORTE]™",
+            "permissions": 172467322880,
+            "color": "#00BFFF"
+        },
+        {
+            "name": "[CLIENTE VIP]™",
+            "permissions": 3149824,
+            "color": "#00FFFF"
+        },
+        {
+            "name": "[CLIENTE]™",
+            "permissions": 68608,
+            "color": "#FFFFFF"
+        },
+        {
+            "name": "[PROSPECT]™",
+            "permissions": 1024,
+            "color": "#A9A9A9"
+        },
+        {
+            "name": "[BOTS]™",
+            "permissions": 268817920,
+            "color": "#00008B"
+        }
+    ]
+}
